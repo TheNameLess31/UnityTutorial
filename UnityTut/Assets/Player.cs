@@ -11,6 +11,7 @@ public class Player : MonoBehaviour
     private float horizontalInput;
     private Rigidbody rigidbodyComponent;
     private int superJumpsRemaining;
+  
 
     // Start is called before the first frame update
     void Start()
